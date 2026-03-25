@@ -10,3 +10,5 @@ sudo apt install nginx
 
 sudo sstemctl start nginx
 sudo sstemctl enable nginx
+
+test
